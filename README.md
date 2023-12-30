@@ -1,6 +1,5 @@
 # Python Zero to Hero for DevOps Engineers
 
-<img width="1141" alt="Screenshot 2023-10-12 at 9 57 40 PM" src="https://github.com/iam-veeramalla/python-for-devops/assets/43399466/d70f5fe2-0ba3-449d-b41f-413a38fc4584">
 
 ## Day 1: Introduction to Python, Installation, and Configuration
 - Introduction to Python and its role in DevOps.
@@ -12,7 +11,7 @@
 - String manipulation and formatting.
 - Regular expressions for text processing.
 - Numeric data types in Python (int, float).
- 
+
 ## Day 3: Keywords and Variables
 - Understanding variables in Python.
 - Variable scope and lifetime.
@@ -49,7 +48,7 @@
 - List manipulation and common list operations.
 - Practice exercises and examples:
   - Example: Writing a script to manage a list of user accounts in a DevOps environment.
-  
+
 ## Day 9: Loops
 - Loops in Python (for and while).
 - Loop control statements (break, continue).
